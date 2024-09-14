@@ -6,4 +6,4 @@
 
 **Branch "AnhNguyet": Nguyễn Thị Ánh Nguyệt**
 
-**Branch "Nguyenthimai": Nguyễn Thị Mai**
+**Branch "NguyenThiMai": Nguyễn Thị Mai**
