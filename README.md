@@ -3,3 +3,7 @@
 **Branch "NguyenHieu": Nguyễn Văn Hiếu - 22010103**
 
 **Branch "Duyy": Phạm Văn Duy - 22010068**
+
+**Branch "AnhNguyet": Nguyễn Thị Ánh Nguyệt**
+
+**Branch "Nguyenthimai": Nguyễn Thị Mai**
